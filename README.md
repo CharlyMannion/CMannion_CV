@@ -1,6 +1,6 @@
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can continue to learn and grow within in a supportive team environment, following a period of absence from work due to illness.
+I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment, following a period of absence from work due to illness.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -30,7 +30,7 @@ When working at RBS, I was required to explain, or 'demistify' the technology we
 #### Makers Academy (March 2018 to July 2018)
 
 I had no prior coding experience when I started Makers Academy. But I embraced this opportunity to work hard and learn something new every day, and I’ve now built apps in 4 different languages.
-As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming, XP Values.
+As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming and XP Values.
 
 * Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
 * Web Frameworks: Sinatra, Spring, node.js/Express, Ruby on Rails
@@ -74,8 +74,9 @@ and Ethics, Corporate Governance and Business Law
 
 ## Interests
 - Photography: I like figuring out how old analogue cameras work, and experimenting with film and exposures to create interesting images
-- Film: I enjoy getting immersed in a story, particularly in a Cinema. The Aesthetica Short Film Festival was one of my highlights of 2019
-- Staying active: I like to go bouldering, practice yoga and generally keep active - it keeps my mind clear and positive
+- Film: The ritual of going to a Cinema and getting immersed in a story is a unique experience. The Aesthetica Short Film Festival was one of my highlights of 2019
+- Baking: I love to bake sourdough bread. I find the lengthy creative process both mindful and incredibly rewarding
+- Staying active: In my spare time I enjoy bouldering, cycling, yoga - it keeps my mind clear and positive
 
 ## Contact Information
 - charlottemannion100@gmail.com
