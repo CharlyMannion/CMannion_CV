@@ -40,20 +40,20 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 
 #### RBS (June 2017 to March 2018)
 *Business Analyst and Ringtail SME*
-- Part of the team administering Ringtail E-Discovery software to a Bank Project
-- Acted as the liaison between the Bank and the Software Vendor
-- Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
-- Ran weekly stakehodler meetings with workstream leads to approve software changes
-- Responsible for smaller software builds, required to tailor the software to the Project's unique needs
+* Part of the team administering Ringtail E-Discovery software to a Bank Project
+* Acted as the liaison between the Bank and the Software Vendor
+* Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
+* Ran weekly stakehodler meetings with workstream leads to approve software changes
+* Responsible for smaller software builds, required to tailor the software to the Project's unique needs
 
 #### EY (September 2016 to June 2017)
 *Technology Consultant, Finanical Services*
-- Part of the Advisory Consultant Programme 2016 Intake
-- Aligned to the technology stream
-- Worked on a Project to deliver the strategy for the future of the UK Payments Industry
-- Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
-- Received technology stream specific training, including basic SQL and Blue Prism
-- Helped develop unconscious bias training for the technology stream
+* Part of the Advisory Consultant Programme 2016 Intake
+* Aligned to the technology stream
+* Worked on a Project to deliver the strategy for the future of the UK Payments Industry
+* Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
+* Received technology stream specific training, including basic SQL and Blue Prism
+* Helped develop unconscious bias training for the technology stream
 
 ## Education
 
