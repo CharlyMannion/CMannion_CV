@@ -1,6 +1,6 @@
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment, following a period of absence from work due to illness.
+I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -15,15 +15,15 @@ I am a full stack developer and graduate of Makers Academy. I'm looking for a ro
 
 #### Teamwork
 
-Our first team challenge at Makers was to build an Airbnb clone in vanilla javascript. The set up of the project proved to be quite challenging. However, by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives, and also made the week really fun. When reflecting on this week, I felt that the most important skill I had learned was how to work well in a dev team, and I took this learning with me in to the rest of my time at Makers.
+Our first team challenge at Makers was to build an Airbnb clone in vanilla javascript. The set up of the project proved to be challenging. But by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives. This ensured that there was room for fun. The most important skill I learned during this week was how to work well in a dev team. I took this with me in to the rest of my time at Makers.
 
 #### Fast Learner
 
-In my previous job, I joined a team initially consisting of only two people, on a Project where I was considered an SME for Ringtail E-Discovery software. I had never used this software before and did not have a technical background. But through research and writing how-to guides as I went, I was able to quickly solidify my understanding. This also meant I was soon able to teach other people on the project how to use the software.
+In my previous job, I joined a team initially consisting of only two people, on a Project where I was considered an SME for Ringtail E-Discovery software. I had never used this software before and did not have a technical background. But through research and writing how-to guides as I learnt, I was able to quickly solidify my understanding. This also meant I was soon able to teach other people on the project how to use the software.
 
 #### Excellent Communicator
 
-When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value he work my team was doing.  This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
+When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
 
 ## Previous Experience
 
@@ -38,22 +38,20 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 * Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
 * CI/CD: Travis CI, Heroku
 
-#### RBS (June 2017 to March 2018)
-*Business Analyst and Ringtail SME*
-* Part of the team administering Ringtail E-Discovery software to a Bank Project
-* Acted as the liaison between the Bank and the Software Vendor
-* Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
-* Ran weekly stakehodler meetings with workstream leads to approve software changes
-* Responsible for smaller software builds, required to tailor the software to the Project's unique needs
+#### RBS (June 2017 to March 2018) - *Business Analyst and Ringtail SME*
+- Part of the team administering Ringtail E-Discovery software to a Bank Project
+- Acted as the liaison between the Bank and the Software Vendor
+- Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
+- Ran weekly stakehodler meetings with workstream leads to approve software changes
+- Responsible for smaller software builds, required to tailor the software to the Project's unique needs
 
-#### EY (September 2016 to June 2017)
-*Technology Consultant, Finanical Services*
-* Part of the Advisory Consultant Programme 2016 Intake
-* Aligned to the technology stream
-* Worked on a Project to deliver the strategy for the future of the UK Payments Industry
-* Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
-* Received technology stream specific training, including basic SQL and Blue Prism
-* Helped develop unconscious bias training for the technology stream
+#### EY (September 2016 to June 2017) - *Technology Consultant, Finanical Services*
+- Part of the Advisory Consultant Programme 2016 Intake
+- Aligned to the technology stream
+- Worked on a Project to deliver the strategy for the future of the UK Payments Industry
+- Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
+- Received technology stream specific training, including basic SQL and Blue Prism
+- Helped develop unconscious bias training for the technology stream
 
 ## Education
 
