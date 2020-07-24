@@ -1,11 +1,10 @@
 ## Charlotte Mannion
 
-I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer. 
+I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-|[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports. | 2 days | Ruby | Rspec, Rubocop |
 | [Thermostat](https://github.com/CharlyMannion/ThermostatSolo) | A programme, written in Javascript, that models a simple thermostat. This project utilises the JQuery library. | 2 days | Javascript, HTML, JQuery | Jasmine |
 | [Chitter](https://github.com/CharlyMannion/chitter_solo) | A small Twitter clone that will allow the users to post messages to a public stream. This project integrates a database using the `PG` gem and `SQL` queries.| 2 days | Ruby, HTML, CSS | Rspec, Rubocop, Capybara, Sinatra, PostgreSQL, PG, SQL, BCrypt|
 | [soloBNB](https://github.com/CharlyMannion/soloBNB) | An Air BnB clone that allows  users to post property listings to a public stream. This project is built using the Ruby on Rails Web Framework, and integrates a database.| 1 week | Ruby on Rails, HTML, Ruby, Spring | Rspec, Capybara, BCrypt|
