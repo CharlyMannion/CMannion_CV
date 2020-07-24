@@ -1,6 +1,9 @@
 ## Charlotte Mannion
 
-I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
+[Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
+
+I am a full stack developer, graduate of Makers Academy and the University of Edinburgh, and current student at Northcoders. I am looking for a role where I can learn and grow, at a company with a good culture and a supportive team environment. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
 
 ## Skills
 
@@ -17,6 +20,15 @@ In my previous job, I joined a team initially consisting of only two people, on 
 When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
 
 ## Previous Experience
+
+#### Northcoders (August 2020 to December 2020)
+
+I am currently enrolled in Northcoders' remote Developer Pathway course, and will graduate in December 2020.
+Northcoders is a multi-award winning bootcamp, where I intend to hone the skills required to become a full-stack software developer.
+
+* Fundamentals and Best Practice: TDD, pair programming, OOP
+* Back End: Node.js, APIs, databases, Express, SQL
+* Front End: semantic HTML, responsive CSS, UX, React
 
 #### Makers Academy (March 2018 to July 2018)
 
@@ -67,8 +79,14 @@ and Ethics, Corporate Governance and Business Law
 - Baking: I love to bake sourdough bread. I find the lengthy creative process both mindful and incredibly rewarding
 - Staying active: In my spare time I enjoy bouldering, cycling, yoga - it keeps my mind clear and positive
 
-## Contact Information
-- charlottemannion100@gmail.com
-- 07794991782
-- https://github.com/CharlyMannion
-- https://www.linkedin.com/in/charly-mannion-75483523/
+## Contact Me
+<p align="center">
+
+<a href="mailto:charlottemannion100@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+
+<a href="https://www.linkedin.com/in/charly-mannion-75483523/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
