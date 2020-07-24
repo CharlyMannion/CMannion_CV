@@ -1,5 +1,8 @@
 ## Charlotte Mannion
 
+[Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Work Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
+
 I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
 
 ## Projects
@@ -75,8 +78,14 @@ and Ethics, Corporate Governance and Business Law
 - Baking: I love to bake sourdough bread. I find the lengthy creative process both mindful and incredibly rewarding
 - Staying active: In my spare time I enjoy bouldering, cycling, yoga - it keeps my mind clear and positive
 
-## Contact Information
-- charlottemannion100@gmail.com
-- 07794991782
-- https://github.com/CharlyMannion
-- https://www.linkedin.com/in/charly-mannion-75483523/
+## Contact Me
+<p align="center">
+
+<a href="mailto:charlottemannion100@gmail.com">
+<img src="https://cdn2.iconfinder.com/data/icons/social-icons-circular-color/512/gmail-128.png" alt="medium" hspace="50" height="42" width="42"></a>
+
+
+<a href="https://www.linkedin.com/in/charly-mannion-75483523/">
+<img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin" hspace="50" height="42" width="42"></a>
+
+</p>
