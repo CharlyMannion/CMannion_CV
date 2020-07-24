@@ -1,7 +1,7 @@
 ## Charlotte Mannion
 
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
-[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Work Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
 
 I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
 
