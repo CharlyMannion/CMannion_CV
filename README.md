@@ -1,6 +1,6 @@
 ## Charlotte Mannion
 
-I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment.
+I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer. 
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
