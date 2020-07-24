@@ -3,7 +3,9 @@
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
 
-I am a full stack developer, graduate of Makers Academy, and current student of Northcoders. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
+## About Me
+
+I am a full stack developer, graduate of Makers Academy and the University of Edinburgh, and current student at Northcoders. I am looking for a role where I can learn and grow, at a company with a good culture and a supportive team environment. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled developer.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -34,7 +36,7 @@ When working at RBS, I was required to explain, or 'demistify' the technology we
 I am currently enrolled in Northcoders' remote Developer Pathway course, and will graduate in December 2020.
 Northcoders is a multi-award winning bootcamp, where I intend to hone the skills required to become a full-stack software developer.
 
-* Fundamentals: TDD, pair programming, OOP
+* Fundamentals and Best Practice: TDD, pair programming, OOP
 * Back End: Node.js, APIs, databases, Express, SQL
 * Front End: semantic HTML, responsive CSS, UX, React
 
