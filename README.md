@@ -3,7 +3,7 @@
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
 
-I am a full stack developer, incoming student at Northcoders and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer.
+I am a full stack developer and graduate of Makers Academy. I'm looking for a role where I can learn and grow within in a supportive team environment. I am excited to get back to work following a period of ill health, which has strengthened my resolve to become a skilled developer. I am currently enrolled in Northcoder's remote Developer Pathway course, and will graduate in December 2020.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -28,6 +28,10 @@ In my previous job, I joined a team initially consisting of only two people, on 
 When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
 
 ## Previous Experience
+
+#### Northcoders (August 2020 to December 2020)
+
+At Northcoders, a multi-award winning bootcamp, I intend to hone the skills needed to become a full-stack software developer.
 
 #### Makers Academy (March 2018 to July 2018)
 
