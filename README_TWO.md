@@ -1,7 +1,7 @@
 ## Charlotte Mannion
 
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
-[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
 
 I am a full stack developer, graduate of Makers Academy and the University of Edinburgh, and current student at Northcoders. I am looking for a role where I can learn and grow, at a company with a good culture and a supportive team environment. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
 
@@ -19,7 +19,7 @@ In my previous job, I joined a team initially consisting of only two people, on 
 
 When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
 
-## Previous Experience
+## Experience
 
 #### Northcoders (August 2020 to December 2020)
 
