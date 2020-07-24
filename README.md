@@ -1,4 +1,4 @@
-## Charlotte Mannion
+## Charly Mannion
 
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
