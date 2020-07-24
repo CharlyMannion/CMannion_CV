@@ -3,8 +3,6 @@
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Previous Experience](https://github.com/CharlyMannion/CMannion_CV#previous-experience)
 
-## About Me
-
 I am a full stack developer, graduate of Makers Academy and the University of Edinburgh, and current student at Northcoders. I am looking for a role where I can learn and grow, at a company with a good culture and a supportive team environment. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled developer.
 
 ## Projects
