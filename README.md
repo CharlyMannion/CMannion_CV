@@ -3,7 +3,8 @@
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
 
-I am a full stack developer and current student at Northcoders, a Coding Bootcamp. I am looking for a role where I can learn and grow, at a company with a good culture and a supportive team environment. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
+I am a full stack developer and current student at Northcoders, a Coding Bootcamp. My previous experience includes working as a Technology Consultant at EY, as a Business Analyst at RBS, and I am a graduate of the University of Edinburgh and Makers Academy.
+I am looking for an interesting and challenging role in which the development of my technical and people skills will be encouraged, at a company with an inclusive and supportive culture. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
@@ -73,19 +74,12 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 - Received the Anne Lewis Award for Academic Achievement in my final year
 
 #### Chartered Institute of Management Accounting (CIMA) Certificate (September 2016 to June 2017)
-- Completed modules in the Fundamentals of Management Accounting, Financial Accounting,
-and Ethics, Corporate Governance and Business Law
+- Completed modules in the Fundamentals of Management Accounting, Financial Accounting, and Ethics, Corporate Governance and Business Law
 
 #### St Peter's School, York (September 2006 to July 2011)
 - A Levels: 3 As in Maths, History and Politics
 - British Maths Olympiad Gold 2011
 - GCSE: 9A* (including Maths, Science and English), 1A
-
-## Interests
-- Photography: I like figuring out how old analogue cameras work, and experimenting with film and exposures to create interesting images
-- Film: The ritual of going to a Cinema and getting immersed in a story is a unique experience. The Aesthetica Short Film Festival was one of my highlights of 2019
-- Baking: I love to bake sourdough bread. I find the lengthy creative process both mindful and incredibly rewarding
-- Staying active: In my spare time I enjoy bouldering, cycling, yoga - it keeps my mind clear and positive
 
 ## Contact Me
 <p align="center">
