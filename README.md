@@ -1,7 +1,7 @@
 ## Charly Mannion
 
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
-[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience) 
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
 
 I am a full stack developer and current student at Northcoders, a Coding Bootcamp. My previous experience includes working as a Technology Consultant at EY, as a Business Analyst at RBS, and I am a graduate of the University of Edinburgh and Makers Academy.
 I am looking for an interesting and challenging role in which the development of my technical and people skills will be encouraged, at a company with an inclusive and supportive culture. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
@@ -41,7 +41,7 @@ Northcoders is a multi-award winning bootcamp, where I intend to hone the skills
 
 #### Makers Academy (March 2018 to July 2018)
 
-I had no prior coding experience when I started Makers Academy. But I embraced this opportunity to work hard and learn something new every day, and I’ve now built apps in 4 different languages.
+Makers Academy was my introduction to coding, having never previously coded before attending the course. I embraced this opportunity to work hard and learn something new every day, and built apps in 4 different languages.
 As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming and XP Values.
 
 * Languages: Ruby, JavaScript (and jQuery), Swift, Java, HTML/CSS
