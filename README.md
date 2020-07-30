@@ -1,7 +1,7 @@
 ## Charly Mannion
 
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
-[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
+[Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience) 
 
 I am a full stack developer and current student at Northcoders, a Coding Bootcamp. My previous experience includes working as a Technology Consultant at EY, as a Business Analyst at RBS, and I am a graduate of the University of Edinburgh and Makers Academy.
 I am looking for an interesting and challenging role in which the development of my technical and people skills will be encouraged, at a company with an inclusive and supportive culture. I am excited to get back to work following a period of absence from work due to ill health. This experience has strengthened my resolve to become a skilled software developer.
@@ -28,7 +28,7 @@ In my previous job, I joined a team initially consisting of only two people, on 
 
 When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
 
-## Experience
+## Education
 
 #### Northcoders (August 2020 to December 2020)
 
@@ -50,6 +50,22 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 * Testing Suites: RSpec, Capybara, Selenium-Webdriver, Jasmine, Nightwatch, Jest, Junit
 * CI/CD: Travis CI, Heroku
 
+#### The University of Edinburgh (September 2011 to July 2015)
+
+- (MA) Master of Arts, with Honours History
+- First Class Honours
+- Received the Anne Lewis Award for Academic Achievement in my final year
+
+#### Chartered Institute of Management Accounting (CIMA) Certificate (September 2016 to June 2017)
+- Completed modules in the Fundamentals of Management Accounting, Financial Accounting, and Ethics, Corporate Governance and Business Law
+
+#### St Peter's School, York (September 2006 to July 2011)
+- A Levels: 3 As in Maths, History and Politics
+- British Maths Olympiad Gold 2011
+- GCSE: 9A* (including Maths, Science and English), 1A
+
+## Experience
+
 #### RBS (June 2017 to March 2018) - *Business Analyst and Ringtail SME*
 - Part of the team administering Ringtail E-Discovery software to a Bank Project
 - Acted as the liaison between the Bank and the Software Vendor
@@ -64,22 +80,6 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 - Invited to attend the EY EACN Training event in Rome in 2017, which focused on client presentations and project management
 - Received technology stream specific training, including basic SQL and Blue Prism
 - Helped develop unconscious bias training for the technology stream
-
-## Education
-
-#### The University of Edinburgh (September 2011 to July 2015)
-
-- (MA) Master of Arts, with Honours History
-- First Class Honours
-- Received the Anne Lewis Award for Academic Achievement in my final year
-
-#### Chartered Institute of Management Accounting (CIMA) Certificate (September 2016 to June 2017)
-- Completed modules in the Fundamentals of Management Accounting, Financial Accounting, and Ethics, Corporate Governance and Business Law
-
-#### St Peter's School, York (September 2006 to July 2011)
-- A Levels: 3 As in Maths, History and Politics
-- British Maths Olympiad Gold 2011
-- GCSE: 9A* (including Maths, Science and English), 1A
 
 ## Contact Me
 <p align="center">
