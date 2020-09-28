@@ -10,7 +10,6 @@ I am looking for an interesting and challenging role in which the development of
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
 |[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports. | 2 days | Ruby | Rspec, Rubocop |
-| [Thermostat](https://github.com/CharlyMannion/ThermostatSolo) | A programme, written in Javascript, that models a simple thermostat. This project utilises the JQuery library. | 2 days | Javascript, HTML, JQuery | Jasmine |
 | [soloBNB](https://github.com/CharlyMannion/soloBNB) | An Air BnB clone that allows  users to post property listings to a public stream. This project is built using the Ruby on Rails Web Framework, and integrates a database.| 1 week | Ruby on Rails, HTML, Ruby, Spring | Rspec, Capybara, BCrypt|
 | [Acebook](https://github.com/anderscodes/mother_acebook) | A clone of Facebook written in Java, Spring and React. | 8 days | Java, Spring, React, Heroku | Nightwatch, Junit, Jest |
 
