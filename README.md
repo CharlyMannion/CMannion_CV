@@ -40,7 +40,7 @@ Northcoders is a multi-award winning bootcamp, where I intend to hone the skills
 * Runtime environments: node.js
 * Databases: PostgreSQL, SQL
 * Testing Suites: Jest, Mocha/Chai, Jasmine
-* CI/CD: Husky, Heroku
+* CI/CD: Heroku
 
 #### Makers Academy (March 2018 to July 2018)
 
