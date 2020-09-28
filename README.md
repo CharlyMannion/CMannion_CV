@@ -35,9 +35,13 @@ When working at RBS, I was required to explain, or 'demistify' the technology we
 I am currently enrolled in Northcoders' remote Developer Pathway course, and will graduate in December 2020.
 Northcoders is a multi-award winning bootcamp, where I intend to hone the skills required to become a full-stack software developer.
 
-* Fundamentals and Best Practice: TDD, pair programming, OOP
-* Back End: Node.js, APIs, databases, Express, SQL
-* Front End: semantic HTML, responsive CSS, UX, React
+* Fundamentals and Best Practice: TDD, pair programming, OOP, Agile, UX
+* Languages: Javacript, HTML/CSS
+* Web Frameworks/ libraries: Express, React
+* Runtime environments: node.js
+* Databases: PostgreSQL, SQL
+* Testing Suites: Jest, Mocha/Chai, Jasmine
+* CI/CD: Husky, Heroku
 
 #### Makers Academy (March 2018 to July 2018)
 
