@@ -14,8 +14,8 @@ I am a full stack developer and current student at Northcoders, a Coding Bootcam
 
 ## Skills
 
-#### Pragmatic, FLexible Thinker
-
+#### Teamwork
+Our first team challenge at Makers was to build an Airbnb clone in vanilla javascript. The set up of the project proved to be challenging. But by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives. This ensured that there was room for fun. The most important skill I learned during this week was how to work well in a dev team. I took this with me in to the rest of my time at Makers.
 
 #### Fast Learner
 
