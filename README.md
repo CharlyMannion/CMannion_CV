@@ -72,7 +72,7 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 - Part of the team administering Ringtail E-Discovery software to a Bank Project
 - Acted as the liaison between the Bank and the Software Vendor
 - Solely responsible for solving the day-to-day problems of the 450 software users on the Project, and handling user queries
-- Ran weekly stakehodler meetings with workstream leads to approve software changes
+- Ran weekly stakeholder meetings with workstream leads to approve software changes
 - Responsible for smaller software builds, required to tailor the software to the Project's unique needs
 
 #### EY (September 2016 to June 2017) - *Technology Consultant, Finanical Services*
