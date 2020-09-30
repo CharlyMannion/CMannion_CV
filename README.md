@@ -8,9 +8,10 @@ I am a full stack developer and current student at Northcoders, a Coding Bootcam
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
+|[Portfolio Website](https://github.com/CharlyMannion/portfolio-website) | My portfolio website. | 2 days | HTML/CSS | Heroku |
 |[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports. | 2 days | Ruby | Rspec, Rubocop |
-| [soloBNB](https://github.com/CharlyMannion/soloBNB) | An Air BnB clone that allows  users to post property listings to a public stream. This project is built using the Ruby on Rails Web Framework, and integrates a database.| 1 week | Ruby on Rails, HTML, Ruby, Spring | Rspec, Capybara, BCrypt|
-| [Acebook](https://github.com/anderscodes/mother_acebook) | A clone of Facebook written in Java, Spring and React. | 8 days | Java, Spring, React, Heroku | Nightwatch, Junit, Jest |
+| [AND-Siblings](https://github.com/CharlyMannion/andSiblings) | A practice tech test written in Javacript, that finds string permutations.| 1 day | Javascript | Jest|
+| [Bank](https://github.com/CharlyMannion/bank-tech-test) | A practice tech test written in Ruby, which allows users to manage their personal finances. | 2 days | Ruby | Rspec, Rubocop, Simplecov |
 
 ## Skills
 
