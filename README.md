@@ -3,7 +3,7 @@
 [Linkedin](https://www.linkedin.com/in/charly-mannion-75483523/) |
 [Github](https://github.com/CharlyMannion) | [Skills](https://github.com/CharlyMannion/CMannion_CV#skills) | [Education](https://github.com/CharlyMannion/CMannion_CV#education) | [Experience](https://github.com/CharlyMannion/CMannion_CV#experience)
 
-I am a full stack developer and current student at Northcoders, a Coding Bootcamp. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
+I am a full stack developer and current student at Northcoders, a Coding Bootcamp. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
 
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
