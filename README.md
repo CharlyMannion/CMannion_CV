@@ -11,7 +11,6 @@ I am a full stack developer and current student at Northcoders, a Coding Bootcam
 |[Portfolio Website](https://charlymannion.github.io/portfolio/) | My portfolio website | 2 days | HTML/CSS | Heroku |
 | [Thermostat](https://github.com/CharlyMannion/ThermostatSolo) | A Thermostat app for use on mobile or desktop. [See it here!](https://charlymannion.github.io/ThermostatSolo/) | 1 week | Javascript, HTML, CSS | Jasmine|
 |[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports | 2 days | Ruby | Rspec, Rubocop |
-| [AND-Siblings](https://github.com/CharlyMannion/andSiblings) | A practice tech test written in Javacript, that finds string permutations | 1 day | Javascript | Jest|
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | A practice tech test written in Ruby, which allows users to manage their personal finances | 2 days | Ruby | Rspec, Rubocop, Simplecov |
 
 ## Skills
