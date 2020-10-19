@@ -1,7 +1,6 @@
 ## Charly Mannion
 
-
-## Contact Me
+### Contact Me
 <p align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
@@ -12,6 +11,8 @@
 <a href="https://github.com/CharlyMannion">
 <img src="https://cdn1.iconfinder.com/data/icons/social-media-vol-1-1/24/_github-512.png" alt="Github" hspace="50" height="42" width="42"></a>
 </p>
+
+## About Me
 
 I am a full stack developer and current student at Northcoders, a Coding Bootcamp. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
 
