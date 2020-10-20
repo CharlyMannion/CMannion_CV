@@ -76,10 +76,10 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-|[Portfolio Website](https://charlymannion.github.io/portfolio/) | My portfolio website | 2 days | HTML/CSS | Heroku |
-| [Thermostat](https://github.com/CharlyMannion/ThermostatSolo) | A Thermostat app for use on mobile or desktop. [See it here!](https://charlymannion.github.io/ThermostatSolo/) | 1 week | Javascript, HTML, CSS | Jasmine|
+| [Northcoder News](https://github.com/CharlyMannion/northcoders-news) | A social news aggregation, web content rating, and discussion website, built using React.() | 1 week | React, Javascript, HTML, CSS | Heroku |
 |[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports | 2 days | Ruby | Rspec, Rubocop |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | A practice tech test written in Ruby, which allows users to manage their personal finances | 2 days | Ruby | Rspec, Rubocop, Simplecov |
+|[Portfolio Website](https://charlymannion.github.io/portfolio/) | My portfolio website | 2 days | HTML/CSS | Heroku |
 
 ## Skills
 
