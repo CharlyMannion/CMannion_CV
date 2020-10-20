@@ -1,6 +1,5 @@
-## Charly Mannion
+# Charly Mannion
 
-### Contact Me
 <p align="center">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@master/devicon.min.css">
 
