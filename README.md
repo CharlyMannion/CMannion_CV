@@ -17,9 +17,13 @@ I am a full stack developer and current student at Northcoders, a Coding Bootcam
 
 ## Experience
 
+#### Northcoders (Jan 2021 to Present)
+
+Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer for them.
+
 #### Northcoders (August 2020 to December 2020)
 
-I am currently enrolled in Northcoders' remote Developer Pathway course, and will graduate in November 2020. Northcoders is a multi-award winning bootcamp, where I intend to hone the skills required to become a full-stack software developer.
+Northcoders is a multi-award winning bootcamp, where honed the skills required to become a full-stack software developer.
 
 * Fundamentals and Best Practice: TDD, pair programming, OOP, Agile, UX
 * Languages: Javacript, HTML/CSS
@@ -75,11 +79,11 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 ## Projects
 | Title | Description | Development Timeframe | Technologies Used | Test Suites/CIs/CDs Employed |
 |--|--|--|--|--|
-| [Charly's News](https://github.com/CharlyMannion/northcoders-news) | A social news aggregation, web content rating, and discussion website, built using React. See it [here](https://charlys-news.netlify.app/) | 1 week | React, Javascript, HTML, CSS | Heroku |
-|[Airport](https://github.com/CharlyMannion/airport_solo) | A programme that allows an Air Traffic Controller to manage the take off and landing of planes at multiple airports | 2 days | Ruby | Rspec, Rubocop |
+| [Helping Heart](https://github.com/CharlyMannion/Helping_Heart) | Our final project at Northcoders was a Phaser game integrated with React, in which a player explores a small town and helps people in distress. Play it [here](helpingheart.netlify.app/) | 2 weeks | Phaser, React, Javascript, HTML, CSS, Tiled, NodeJS | Netlify, Heroku |
+| [Charly's News](https://github.com/CharlyMannion/northcoders-news) | A social news aggregation, web content rating, and discussion website, built using React. See it [here](https://charlys-news.netlify.app/) | 1 week | React, Javascript, HTML, CSS | Netlify |
+|[Rick & MortyFied API](https://github.com/CharlyMannion/rick-and-mortyfied-api) | An API built to serve a front-end application for fans of the TV show Rick & Morty | 1 week | Javascript, express, knex, pg | Jest, Supertest, Heroku |
+|[Rick & MortyFied](https://github.com/CharlyMannion/rick-and-mortyfied) | A website for fans of the TV show Rick & Morty, built using React and the Rick & Morty API | 1 week | 1 week | React, Javascript, HTML, CSS | Netlify |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | A practice tech test written in Ruby, which allows users to manage their personal finances | 2 days | Ruby | Rspec, Rubocop, Simplecov |
-| [Thermostat](https://github.com/CharlyMannion/ThermostatSolo) | A Thermostat app for use on mobile or desktop. See it [here](https://charlymannion.github.io/ThermostatSolo/) | 1 week | Javascript, HTML, CSS | Jasmine|
-|[Portfolio Website](https://charlymannion.github.io/portfolio/) | My portfolio website | 2 days | HTML/CSS | Github pages |
 
 ## Skills
 
