@@ -17,11 +17,11 @@ I am a full stack developer and current student at Northcoders, a Coding Bootcam
 
 ## Experience
 
-#### Northcoders (Jan 2021 to Present)
+#### Northcoders - *Software Engineer and Tutor* (Jan 2021 to Present)
 
 Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer for them.
 
-#### Northcoders (August 2020 to December 2020)
+#### Northcoders - *Student Software Engineer* (August 2020 to December 2020)
 
 Northcoders is a multi-award winning bootcamp, where honed the skills required to become a full-stack software developer.
 
@@ -33,7 +33,7 @@ Northcoders is a multi-award winning bootcamp, where honed the skills required t
 * Testing Suites: Jest, Mocha/Chai, Jasmine
 * CI/CD: Heroku
 
-#### Makers Academy (March 2018 to July 2018)
+#### Makers Academy - *Student Software Engineer* (March 2018 to July 2018)
 
 I had no prior coding experience when I started Makers Academy. But I embraced this opportunity to work hard and learn something new every day.
 
