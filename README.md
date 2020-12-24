@@ -13,7 +13,7 @@
 
 ## About Me
 
-I am a full stack developer and current student at Northcoders, a Coding Bootcamp. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
+I am a full stack developer and tutor at Northcoders, a Coding Bootcamp. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
 
 ## Experience
 
@@ -34,8 +34,6 @@ Northcoders is a multi-award winning bootcamp, where honed the skills required t
 * CI/CD: Heroku
 
 #### Makers Academy - *Student Software Engineer* (March 2018 to July 2018)
-
-I had no prior coding experience when I started Makers Academy. But I embraced this opportunity to work hard and learn something new every day.
 
 As well as learning to code, Makers equipped me with a good mindset and attitude to code through behaviours such as OOP, TDD, Pair programming, XP Values.
 
