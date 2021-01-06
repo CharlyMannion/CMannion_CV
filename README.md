@@ -19,7 +19,7 @@ I am a full stack developer and tutor at Northcoders, a Coding Bootcamp. After c
 
 #### Northcoders - *Software Engineer and Tutor* (Jan 2021 to Present)
 
-Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer for them.
+Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer.
 
 #### Northcoders - *Student Software Engineer* (August 2020 to December 2020)
 
