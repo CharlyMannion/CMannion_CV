@@ -79,7 +79,7 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 |--|--|--|--|--|
 | [Helping Heart](https://github.com/CharlyMannion/Helping_Heart) | Our final project at Northcoders was a Phaser game integrated with React, in which a player explores a small town and helps people in distress. Play it [here](helpingheart.netlify.app/) | 2 weeks | Phaser, React, Javascript, HTML, CSS, Tiled, NodeJS | Netlify, Heroku |
 | [Charly's News](https://github.com/CharlyMannion/northcoders-news) | A social news aggregation, web content rating, and discussion website, built using React. See it [here](https://charlys-news.netlify.app/) | 1 week | React, Javascript, HTML, CSS | Netlify |
-|[Rick & MortyFied API](https://github.com/CharlyMannion/rick-and-mortyfied-api) | An API built to serve a front-end application for fans of the TV show Rick & Morty | 1 week | Javascript, express, knex, pg | Jest, Supertest, Heroku |
+|[Rick & MortyFied API](https://github.com/CharlyMannion/rick-and-mortyfied-api) | An API built to serve a front-end application for fans of the TV show Rick & Morty. Find the API hosted on Heroku [here](https://rick-and-mortyfied-api.herokuapp.com/api) | 1 week | Javascript, express, knex, pg | Jest, Supertest, Heroku |
 | [Bank](https://github.com/CharlyMannion/bank-tech-test) | A practice tech test written in Ruby, which allows users to manage their personal finances | 2 days | Ruby | Rspec, Rubocop, Simplecov |
 
 ## Skills
