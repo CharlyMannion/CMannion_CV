@@ -17,6 +17,10 @@ I am a full stack developer and Associate Product Developer at AND Digital. Afte
 
 ## Experience
 
+#### AND Digital - *Associate Product Developer* (April 2021 to Present)
+
+I joined AND Digital club Murray in April 2021.
+
 #### Northcoders - *Software Engineer and Tutor* (Jan 2021 to March 2021)
 
 Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer.
