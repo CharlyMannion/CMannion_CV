@@ -13,11 +13,11 @@
 
 ## About Me
 
-I am a full stack developer and tutor at Northcoders, a Coding Bootcamp. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. I am excited to start my first role after a period absence from work due to personal matters. This experience strengthened my resolve to become a skilled engineer.
+I am a full stack developer and Associate Product Developer at AND Digital. After completing a History degree, I worked as a Finance Technology Consultant at EY and RBS before deciding to pursue a career as a developer. I completed the Northcoders Coding Bootcamp, where I worked as a tutor before moving to AND. I am a flexible thinker, a keen learner, and I have a curiosity for both people and tech. I am drawn to coding as I find the problem-solving and collaborative working style to be fun, rewarding and satisfying. 
 
 ## Experience
 
-#### Northcoders - *Software Engineer and Tutor* (Jan 2021 to Present)
+#### Northcoders - *Software Engineer and Tutor* (Jan 2021 to March 2021)
 
 Whilst finishing the Nortchoders bootcamp, I was offered the opportunity to stay on and work as a tutor and Software Engineer.
 
@@ -85,15 +85,14 @@ As well as learning to code, Makers equipped me with a good mindset and attitude
 ## Skills
 
 #### Teamwork
-Our first team challenge at Makers was to build an Airbnb clone in vanilla javascript. The set up of the project proved to be challenging. But by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives. This ensured that there was room for fun. The most important skill I learned during this week was how to work well in a dev team. I took this with me in to the rest of my time at Makers.
+Our final project team at Northcoders... But by ensuring my team stuck to daily stand ups, check-ins and retros, I ensured the team remained cohesive, focused on our objectives. This ensured that there was room for fun. The most important skill I learned during this week was how to work well in a dev team. 
 
 #### Fast Learner
 
 In my previous job at RBS, I joined a team initially consisting of only two people, on a Project where I was considered an SME for Ringtail E-Discovery software. I had never used this software before and did not have a technical background. But through research and writing how-to guides as I learnt, I was able to quickly solidify my understanding. This also meant I was soon able to teach other people on the project how to use the software.
 
 #### Excellent Communicator
-
-When working at RBS, I was required to explain, or 'demistify' the technology we were using to those in decision making positions that were less technically minded. This helped these stakeholders recognise the value of the work my team was doing. This experience showed me the importance of open and patient communication with others, and I think it will serve me well in my future career as a software developer.
+Northcoders tutor role
 
 ## Hobbies
 * Crotchet & Embroidery
